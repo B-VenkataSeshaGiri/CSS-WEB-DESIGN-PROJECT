@@ -1,0 +1,181 @@
+#Task_Box
+{
+   position: absolute;
+   margin-left: 25px;
+   font-size: 40px;
+   margin-top: -40px;
+}
+#List_Box
+{
+    color: #00A5EC;
+    margin-left: 155px;
+    position: absolute;
+    margin-top:-40px;
+    font-size: 40px;
+}
+#top_border
+{
+    border: 2px solid rgba(150, 150, 150, 0.303);
+    height: 60px;
+    position: relative;
+}
+#adding_new_task
+{
+    margin-top: 100px  ;
+    margin-left: 1300px;
+    font-size: 22px;
+    text-transform: capitalize;
+}
+.sho
+{
+    accent-color:#7B7B7B29 ;
+    margin-left: -35px;
+    height: 40px;
+    width: 25px;
+    text-align: left;
+    position: absolute;
+}
+.abcdef
+{
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+#adding_new_task span
+{
+    /* background-color:#00A5EC; */
+    color:#00A5EC ;
+    
+}
+#Trip_to_paris
+{
+    border: 2px solid grey;
+    width: 250px;
+    height: 300px;
+    margin-left: 180px;
+    background-color: white;
+    border-color: aliceblue;
+    position: absolute;
+    border-radius: 10px;
+}
+#Trip_to_paris h3
+{
+    margin-left: 20px;
+    font-size: 20px;
+}
+#My_to_do_list h3
+{
+    margin-left: 20px;
+    font-size: 20px;
+}
+.vc
+{
+    color:#36333329;
+    font-size: 20px;
+    position: absolute;
+    margin-left: 58px;
+    margin-top: -40px;
+}
+.VC
+{
+    color: white;
+    accent-color:#7B7B7B29 ;
+    height: 40px;
+    width: 25px;
+    margin: 10px;
+    margin-top:0px;
+    margin-left: 23px;
+}
+#Trip_to_paris:hover
+{
+    box-shadow: 1px 2px 15px grey;
+    transition: all 2s ease-in-out;
+}
+#My_to_do_list
+{
+    border: 2px solid grey;
+    width: 250px;
+    height: 300px;
+    margin-left: 600px;
+    background-color: white;
+    border-color: aliceblue;
+    position: absolute;
+    border-radius: 10px;
+}
+#My_to_do_list:hover
+{
+    box-shadow: 1px 2px 15px grey;
+    transition: all 2s ease-in-out;
+}
+#Movies_i_will_watch
+{
+    border: 2px solid grey;
+    width: 250px;
+    height: 300px;
+    margin-left: 1080px;
+    background-color: white;
+    border-color: aliceblue;
+    border-radius: 10px;
+    position: absolute;
+}
+#Movies_i_will_watch:hover
+{
+    box-shadow: 1px 2px 15px grey;
+    transition: all 2s ease-in-out;
+}
+#Movies_i_will_watch h3
+{
+    margin-left: 20px;
+    font-size: 20px;
+}
+#Daily_morning_routine_for
+{
+    border: 2px solid grey;
+    width: 250px;
+    height: 300px;
+    margin-left: 180px;
+    border-radius: 10px;
+    margin-top: 380px;
+    background-color: white;
+    border-color: aliceblue; 
+    position: absolute;
+}
+#Daily_morning_routine_for:hover
+{
+    box-shadow: 1px 2px 15px grey;
+    transition: all 2s ease-in-out;
+}
+#Daily_morning_routine_for h3
+{
+    margin-left: 20px;
+    font-size: 18px;
+}
+#books_to_read
+{
+    border: 2px solid grey;
+    width: 250px;
+    height: 300px;
+    border-radius: 10px;
+    margin-left: 600px;
+    margin-top: 380px;
+    background-color: white;
+    border-color: aliceblue;
+    position: absolute;
+}
+#books_to_read h3
+{
+    margin-left: 20px;
+    font-size: 20px;
+}
+#books_to_read:hover
+{
+    box-shadow: 1px 2px 15px grey;
+    transition: all 2s ease-in-out;
+}
+#inner_box
+{
+    border: 2px solid grey;
+    height: 850px;
+    background-color: rgb(244, 239, 239);
+    border-color: rgb(244, 239, 239);
+}

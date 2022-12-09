@@ -1,0 +1,89 @@
+#fb
+{
+    border: 2px solid rgba(167, 165, 165, 0.503);
+    height: 120px;
+    width: 500px;
+    background-color:rgba(167, 165, 165, 0.503);
+    opacity: 0.4;
+}
+#Task_Box
+{
+   position: absolute;
+   margin-left: 25px;
+   font-size: 40px;
+   margin-top: -40px;
+}
+#List_Box
+{
+    color: #00A5EC;
+    margin-left: 155px;
+    position: absolute;
+    margin-top:-40px;
+    font-size: 40px;
+}
+#skinbg
+{
+    border: 2px solid black;
+    margin-top: 0px;
+    height: 600px;
+    background-color: rgba(243, 240, 240, 0.703);
+    border-color: aliceblue;
+    box-shadow: 1px 2px 3px rgba(228, 226, 226, 0.541);
+}
+img
+{
+    margin-left: 350px;
+    position: absolute;
+}
+.abcdef
+{
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 35px;
+}
+#ix
+{
+    border: 2px solid black;
+    margin-top: 150px;
+    height: 285px;
+    width: 600px;
+    margin-left: 444px;
+    position: absolute;
+    border-radius: 10px;
+    font-size: 20px;
+    text-align: center;
+    border-color: white;
+    background-color: white;
+}
+#ix:hover
+{
+    box-shadow: 1px 2px 3px rgb(172, 168, 168);
+    transition: all 1s ease;
+}
+.vc
+{
+    color:#36333329;
+    font-size: 20px;
+    position: absolute;
+    margin-left: 80px;
+    margin-top: -40px;
+}
+.VC
+{
+    color: white;
+    accent-color:#7B7B7B29 ;
+    height: 40px;
+    width: 25px;
+    margin: 10px;
+    margin-top:0px;
+    margin-left: -475px;
+}
+.sho
+{
+    accent-color:#7B7B7B29 ;
+    margin-left: -35px;
+    height: 40px;
+    width: 25px;
+    text-align: left;
+    position: absolute;
+}
